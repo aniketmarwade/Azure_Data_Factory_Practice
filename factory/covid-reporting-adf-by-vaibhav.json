@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-by-vaibhav",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c1964d13-b07c-4c9e-856c-b79e058057d2",
+		"tenantId": "29cb9834-e11e-4f91-a790-fd92224548f3"
+	}
+}
