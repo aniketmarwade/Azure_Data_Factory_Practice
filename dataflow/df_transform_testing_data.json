@@ -136,6 +136,7 @@
 				"          source as string",
 				"     ),",
 				"     partitionFileNames:['testing_data'],",
+				"     truncate: true,",
 				"     umask: 0022,",
 				"     preCommands: [],",
 				"     postCommands: [],",
